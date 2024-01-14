@@ -1,0 +1,9 @@
+CREATE TABLE Autor_Livro_Editora (
+  Autor_ID INT,
+  Livro_ID INT,
+  Editora_ID INT,
+  FOREIGN KEY (Autor_ID) REFERENCES AUTOR(Id),
+  FOREIGN KEY (Livro_ID) REFERENCES LIVRO(Id),
+  FOREIGN KEY (Editora_ID) REFERENCES EDITORA(Id)
+);
+

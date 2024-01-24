@@ -57,7 +57,7 @@ spring.datasource.password=sua_senha
 
 ### Como Rodar o Projeto
 
-- Execute a classe que possui o metodo MAIN 
+- Execute a classe que possui o metodo main 
 
 <br>
   

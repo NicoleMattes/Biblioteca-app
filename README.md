@@ -1,4 +1,4 @@
-<h1 align="center">Biblioteca Appr</h1>
+<h1 align="center">Biblioteca App</h1>
 <p align="center"><i>Repositório para versionamento e documentação do projeto durante o seu desenvolvimento</i></p>
 <br>
 
